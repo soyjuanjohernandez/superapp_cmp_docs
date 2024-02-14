@@ -69,7 +69,7 @@ const config = {
         title: 'Claro superapp',
         logo: {
           alt: 'Claro superapp',
-          src: 'img/logo.svg',
+          src: 'img/claro.svg',
         },
         items: [
           {
